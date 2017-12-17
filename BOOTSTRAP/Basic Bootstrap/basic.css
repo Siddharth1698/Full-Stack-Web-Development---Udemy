@@ -1,0 +1,12 @@
+
+img{
+	width: 340px;
+	height: 180px;
+	padding : 10px;
+}
+.nav-link{
+	color: black;
+	text-decoration: underline;
+	font-weight: bold;
+
+}
