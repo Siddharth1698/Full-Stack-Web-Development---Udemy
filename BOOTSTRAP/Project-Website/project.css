@@ -1,0 +1,22 @@
+body { 
+  background: url(dog.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.row{
+	text-align: center;
+	padding: 15%;
+	color:white;
+}
+
+hr {
+    border: 0;
+    height: 0; 
+    width: 400px;
+    box-shadow: 0 0 4px 1px white;
+}
+hr:after { 
+    content: "\00a0";  
+}
