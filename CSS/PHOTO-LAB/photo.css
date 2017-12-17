@@ -1,0 +1,19 @@
+.div{
+	float: left;
+}
+img{
+	width: 380px;
+	height: 300px;
+	padding: 20px;
+}
+body{
+	padding-top: 10px;
+	background: url(back.jpg);
+	
+}
+h1{
+	font-size: 50px;
+	font-family: Arial;
+	text-decoration: underline;
+	text-align: center;
+}

@@ -1,0 +1,6 @@
+p{
+	width: 50%;
+	border: 2px solid red;
+	padding-left: 50px;
+	margin: 0 auto 0 auto; /* Margin is set */
+}

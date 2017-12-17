@@ -1,0 +1,30 @@
+.p1{
+	font-family: 'Lora', serif;
+	text-decoration: underline;
+	} /* Changing font 
+	     Underline Text*/
+	.p2{
+		font-weight: bolder;
+       font-family: Serif;
+       text-align: center;
+	} /* Making it Bolder
+	     Alligned text to center */
+	.p3{
+     font-family: Monospace;
+     font-weight: bold;
+     line-height: 2; 
+     text-decoration: line-through;
+	}
+	/* Spacing between lines
+	   LINE THROUGH to strike the lines */
+	h1{
+		font-family: Arial;
+		font-size: 80px;
+		text-align: right;
+	}
+	/* Changing font size 
+	   Allign text to right side*/
+	span{
+		font-size: 20px;
+	}
+	/* Changing font size of selected span */
